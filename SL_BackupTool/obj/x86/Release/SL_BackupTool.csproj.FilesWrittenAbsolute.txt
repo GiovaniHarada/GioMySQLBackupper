@@ -1,0 +1,6 @@
+/home/giovaniharada/Documentos/MonoDevelop/SL_BackupTool/SL_BackupTool/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/giovaniharada/Documentos/MonoDevelop/SL_BackupTool/SL_BackupTool/bin/Release/SL_BackupTool.exe.mdb
+/home/giovaniharada/Documentos/MonoDevelop/SL_BackupTool/SL_BackupTool/bin/Release/SL_BackupTool.exe
+/home/giovaniharada/Documentos/MonoDevelop/SL_BackupTool/SL_BackupTool/obj/x86/Release/SL_BackupTool.exe
+/home/giovaniharada/Documentos/MonoDevelop/SL_BackupTool/SL_BackupTool/obj/x86/Release/SL_BackupTool.exe.mdb
+/home/giovaniharada/Documentos/MonoDevelop/SL_BackupTool/SL_BackupTool/bin/Release/Newtonsoft.Json.dll
